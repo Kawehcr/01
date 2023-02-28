@@ -1,0 +1,4 @@
+[MAIN]
+
+disable=
+    R0903 #too-few-public-methods
